@@ -1,0 +1,12 @@
+uuid: 183d53da-e523-4399-adf2-33e7d4326a2f
+langcode: es
+status: false
+dependencies:
+  module:
+    - block_content
+_core:
+  default_config_hash: 4tedlMuvQjDOdvHdw86_e-2Rt78aR7TGFMfOK8Ejppg
+id: block_content.full
+label: Completo
+targetEntityType: block_content
+cache: true

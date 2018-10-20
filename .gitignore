@@ -13,6 +13,8 @@
 
 # Ignore Drupal's file directory
 /web/sites/*/files/
+/web/sites/*/private/
+/web/sites/*/tmp/
 
 # Ignore SimpleTest multi-site environment.
 /web/sites/simpletest
@@ -22,3 +24,6 @@
 
 # Ignore .env files as they are personal
 /.env
+
+# Ignote Data base
+/backups/
