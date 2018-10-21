@@ -9,7 +9,8 @@ folder: ../config/split/local
 module: {  }
 theme: {  }
 blacklist: {  }
-graylist: {  }
+graylist:
+  - system.site
 graylist_dependents: false
 graylist_skip_equal: false
 weight: 0
