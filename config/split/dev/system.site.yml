@@ -1,0 +1,14 @@
+uuid: c7f8bbf4-54dd-428d-a317-4e3e221e7ba4
+name: DEV iRunner
+mail: alias@domine.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: es
+default_langcode: es
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

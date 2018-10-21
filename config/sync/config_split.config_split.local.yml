@@ -1,0 +1,16 @@
+uuid: 02bbe3b2-3470-4ded-a851-1f987a37548f
+langcode: es
+status: false
+dependencies: {  }
+id: local
+label: Local
+description: ''
+folder: ../config/split/local
+module: {  }
+theme: {  }
+blacklist: {  }
+graylist:
+  - system.site
+graylist_dependents: false
+graylist_skip_equal: false
+weight: 0
